@@ -1,3 +1,11 @@
+# ⚠️ Repository Moved
+
+Heads up, this repository is outdated and has been moved to
+
+[https://github.com/PlasmoHQ/examples/tree/main/with-svelte](https://github.com/PlasmoHQ/examples/tree/main/with-svelte)
+
+Using the `pnpm create plasmo --with-svelte` will end up using that rather than this repository.
+
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 ## Getting Started
